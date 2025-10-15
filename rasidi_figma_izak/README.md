@@ -1,6 +1,4 @@
-# rasidi_figma_izak
-
-A new Flutter project.
+## This application is still not perfect
 
 ## Getting Started
 
