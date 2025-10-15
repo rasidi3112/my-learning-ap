@@ -29,10 +29,12 @@ Fokus aplikasi: **CRUD kategori kursus, navigasi bottom bar, search & filter**, 
 
 ## 📱 Screenshot
 **1. Tampilan Beranda / Home**  
-![Home Screen](assets/images/screenshot_home.png)
+---
+<img src="assets/images/screenshot_home.png" alt="Home Screen" width="200"/>
 
 **2. Tampilan Kategori / See All**  
-![Kategori Screen](assets/images/screenshot_kategori.png)
+---
+<img src="assets/images/screenshot_kategori.png" alt="Kategori Screen" width="200"/>
 
 ---
 
