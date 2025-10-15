@@ -1,0 +1,48 @@
+name: rasidi_figma_izak
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  image_picker: ^1.1.2
+  shared_preferences: ^2.0.0 # Tambahkan dependensi ini
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/accounting.jpg
+    - assets/images/photograpy.webp
+    - assets/images/biology.jpg
+    - assets/images/marketing.webp
+    - assets/images/matematika.png
+    - assets/images/eceee.jpeg
+    - assets/images/design.jpg
+    - assets/images/programing.jpg
+    - assets/images/data-science.jpg
+    - assets/images/machine_learning.jpg
+    - assets/images/cyber-security.jpg
+    - assets/images/cloud-computing.jpg
+    - assets/images/ai.jpg
+    - assets/images/marketingg.avif
+    - assets/images/grapic-design.jpg
+    - assets/images/ganteng.jpeg
+    - assets/images/ana5_2.jpg
+    - assets/images/pic75532c9d27eebd5707e826f9b7b6167e.jpg
+    - assets/images/Lars_Bak.png
+    - assets/images/einstein-225x300.jpg
+    - assets/images/ELON MUSK.png
+    - assets/images/Habibie-750x470.jpg
+    - assets/images/notifikasi.jpg
