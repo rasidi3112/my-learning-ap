@@ -53,6 +53,10 @@ cd my-learning-app
 
 -
 
+cd rasidi_figma_izak
+
+-
+
 flutter pub get
 
 -
